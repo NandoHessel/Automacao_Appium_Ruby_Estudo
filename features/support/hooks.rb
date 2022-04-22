@@ -4,6 +4,8 @@ Before do
   driver.manage.timeouts.implicit_wait = 10
 
   @nav = Navigator.new
+  @login = LoginScreen.new
+  
   
   # Evento de clique no btão Começar
   find_element(xpath: "//android.widget.Button[@text='COMEÇAR']").click

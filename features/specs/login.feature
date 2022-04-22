@@ -8,4 +8,5 @@ Funcionalidade: Login
         Quando submeto minhas credenciais:
             |email|eu@papito.io|
             |senha|qaninja|
-        Entao devo ver a notificação: "Show! Suas credenciais são válidas."
+        Entao devo ver a notificação: "Show! Suas credenciais são validas."
+    
